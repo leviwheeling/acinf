@@ -1,0 +1,2 @@
+[console_scripts]
+acinf = acinf.__main__:main
